@@ -1,0 +1,4 @@
+﻿  excercise2_level1_module1-1.2.cpp
+C:\Users\easod\OneDrive\Desktop\semester 1\Baruch Advanced C++ course\EXCERCISE SOLVING FINAL VERSION\Level1\module_1.2\excercise2_level1_module1-1.2\excercise2_level1_module1-1.2\excercise2_level1_module1-1.2.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\easod\OneDrive\Desktop\semester 1\Baruch Advanced C++ course\EXCERCISE SOLVING FINAL VERSION\Level1\module_1.2\excercise2_level1_module1-1.2\excercise2_level1_module1-1.2\excercise2_level1_module1-1.2.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  excercise2_level1_module1-1.2.vcxproj -> C:\Users\easod\OneDrive\Desktop\semester 1\Baruch Advanced C++ course\EXCERCISE SOLVING FINAL VERSION\Level1\module_1.2\excercise2_level1_module1-1.2\x64\Debug\excercise2_level1_module1-1.2.exe
